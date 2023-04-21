@@ -1,0 +1,31 @@
+body{
+    background-color: aquamarine;
+    background-image: url(https://www.boldbusiness.com/wp-content/uploads/2019/01/Can-Elon-Musk-Make-Us-Smarter-with-Brain-Chips-Inarticle1-1024x495.jpg);
+    background-repeat: no-repeat;
+    background-size: 70%;
+    background-position: center;
+    
+}
+
+label{
+    text-transform: capitalize;
+    color:blueviolet;
+}
+button{
+    background-color: orange;
+    color: greenyellow;
+    border-radius: 50px;
+    cursor: pointer;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    align-items: center;
+
+}
+.heading_1{
+    background-color: coral;
+    padding: 12px;
+    width:50%;
+    border-bottom-left-radius: 10px;
+}
